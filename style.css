@@ -2,6 +2,7 @@ h1 {
     color: blue ;
     text-align: center;
     font-family: sans-serif;
+    border-stlye: solid; 
 }
 body {
     background-color:#509DAA ;
