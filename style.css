@@ -24,4 +24,8 @@ body {
 
 #looper {
     color: green;
+    width: 300px;
+    border: solid green;
+    padding: 10px;
+    margin: 10px;
 }
