@@ -7,21 +7,24 @@ h1 {
 }
 body {
     background-image: url(https://wallpapercave.com/wp/wp10891584.jpg) ;
-    bopacity: 0.5;
+
 }
 #guitar-looper{
     width: 190px;
     margin-top: 130px;
+    margin-left: 10px;
 }
 #fuzz-pedal{
-    margin-bottom: 15px;
+
+    margin-bottom: 30px;
+    margin-left: 330px;
     width: 189px;
 }
 
 #what-is{
     color: #ACDDDE;
     width: 300px;
-    border: solid green;
+    border: solid red;
     padding: 5px;
     margin: 10px;
 }
