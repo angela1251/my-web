@@ -2,12 +2,16 @@ h1 {
     color: blue ;
     text-align: center;
     font-family: sans-serif;
-    border-stlye: solid;
+
 }
 body {
     background-color:#509DAA ;
 }
-img{
-    width: 90px;
+#guitar-looper{
+    width: 100px;
     margin-top: 130px;
+}
+#fuzz-pedal{
+    margin-bottom: 15px;
+    width: 100px;
 }
