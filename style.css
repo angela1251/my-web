@@ -21,11 +21,15 @@ body {
 }
 
 #what-is{
-    color: yellow;
+    color: white;
+    width: 300px;
+    border: solid green;
+    padding: 10px;
+    margin: 10px;
 }
 
 #delay{
- 
+
 }
 
 
