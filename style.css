@@ -6,7 +6,8 @@ h1 {
 
 }
 body {
-    background-color:#509DAA ;
+    
+    background-image: url("img_tree.gif"), url("paper.gif");
 }
 #guitar-looper{
     width: 190px;
