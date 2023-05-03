@@ -2,17 +2,21 @@ h1 {
     color: blue ;
     text-align: center;
     border-style:dashed;
-    border-length: 50px;
+
 
 }
 body {
     background-color:#509DAA ;
 }
 #guitar-looper{
-    width: 100px;
+    width: 190px;
     margin-top: 130px;
 }
 #fuzz-pedal{
     margin-bottom: 15px;
-    width: 100px;
+    width: 189px;
+}
+
+#what-is{
+    color: #bada55;
 }
