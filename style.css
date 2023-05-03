@@ -2,13 +2,14 @@ h1 {
     color: blue ;
     text-align: center;
     border-style:solid;
-    border-color: green;
-
-
+    border-color: red;
+  background-image: url("https://thumbs.gfycat.com/BitesizedNextGavial-size_restricted.gif") ;
+  opacity: 0.5;
+  overflow:hidden;
 }
 body {
-    background-image: url(https://wallpapercave.com/wp/wp10891584.jpg) ;
-
+    background-image: url("https://c0.wallpaperflare.com/preview/1014/118/359/red-white-and-black-pedal-guitar-distortion-pedal.jpg") ;
+    opacity: 1.0;
 }
 #guitar-looper{
     width: 190px;
@@ -28,6 +29,7 @@ body {
     border: solid red;
     padding: 5px;
     margin: 10px;
+    background-image: url()
 }
 
 #delay{
