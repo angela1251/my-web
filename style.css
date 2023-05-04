@@ -1,15 +1,14 @@
 h1 {
-    color: blue ;
+    color: 	#360000 ;
     text-align: center;
     border-style:solid;
+    background-color: #267A9E;
     border-color: red;
-  background-image: url("https://thumbs.gfycat.com/BitesizedNextGavial-size_restricted.gif") ;
-  opacity: 0.5;
-  overflow:hidden;
+    width: 570px;
+    margin: auto;
 }
 body {
-    background-image: url("https://c0.wallpaperflare.com/preview/1014/118/359/red-white-and-black-pedal-guitar-distortion-pedal.jpg") ;
-    opacity: 1.0;
+    background-color: #F5A936;
 }
 #guitar-looper{
     width: 190px;
@@ -18,22 +17,23 @@ body {
 }
 #fuzz-pedal{
 
-    margin-bottom: 30px;
+    margin-bottom: 70px;
     margin-left: 330px;
     width: 189px;
 }
 
 #what-is{
-    color: #ACDDDE;
+    color: #2D2424;
     width: 300px;
     border: solid red;
     padding: 5px;
-    margin: 10px;
-    background-image: url()
+    margin-bottom: 10px;
 }
 
 #delay{
     width: 189px;
+    margin-right: 50px;
+    border-style: inset green;
 }
 
 
@@ -43,4 +43,13 @@ body {
     border: solid green;
     padding: 10px;
     margin: 10px;
+}
+
+#my-delay{
+    color: #6f0000;
+    width:309px;
+    margin-right: 50px;
+    border-style: inset;
+    border-width: 10px;
+    border-color: #2C3639;
 }
