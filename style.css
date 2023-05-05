@@ -24,8 +24,8 @@ body {
 
 #what-is{
     color: #2D2424;
-    width: 300px;c
-    border: solid red;
+    width: 300px;
+    border-style: inset;
     padding: 5px;
     margin-bottom: 20px;
 }
@@ -52,18 +52,16 @@ body {
     border-style: inset;
     border-width: 10px;
     border-color: #2C3639;
-}
 #boss{
    width: 300px;
-   margin-left: 800px;
-   margin-bottom: 0px;
+   margin-left: 500px;
+   margin-bottom: 90px;
 }
 #d-1-boss{
-    margin-left: 800px;
-    margin-bottom: 0px;
+    margin-left: 450px;
+    margin-bottom: 500px;
     border-style: inset;
     border-color: red;
     width: 533px;
     border-width: 10px;
 }
-u
