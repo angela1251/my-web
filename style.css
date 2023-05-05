@@ -64,24 +64,6 @@ body {
     border-style: inset;
     border-color: red;
     width: 533px;
-
+    border-width: 10px;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 10;
-    overflow: hidden;
-    background-color: #333;
-  }
-
-  li {
-    float: left;
-  }
-
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-  }
+u
