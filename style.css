@@ -52,16 +52,16 @@ body {
     border-style: inset;
     border-width: 10px;
     border-color: #2C3639;
-#boss{
-   width: 300px;
+}
+#boss-pedal{
+   width: 400px;
    margin-left: 500px;
    margin-bottom: 90px;
 }
 #d-1-boss{
-    margin-left: 450px;
-    margin-bottom: 500px;
-    border-style: inset;
-    border-color: red;
-    width: 533px;
-    border-width: 10px;
+    border-color: 
+    border-style:solid;
+    width: 390px;
+    margin-left: 500px;
+    margin-bottom: 900px;
 }
