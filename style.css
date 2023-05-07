@@ -60,7 +60,7 @@ body {
 #boss-pedal{
    width: 400px;
    margin-left: 300px;
-   
+   top: 20px;
 }
 #d-1-boss{
   border-style: outset;
