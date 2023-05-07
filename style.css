@@ -16,7 +16,7 @@ body {
     margin-left: 10px;
 }
 #fuzz-pedal{
-
+    margin-top: 70px;
     margin-top: 90px;
     margin-left: 330px;
     width: 189px;
@@ -28,12 +28,15 @@ body {
     border-style: inset;
     padding: 5px;
     margin-bottom: 20px;
+    margin-left: 320px;
+
 }
 
 #delay{
     width: 189px;
     margin-right: 50px;
     border-style: inset green;
+    margin-left: 10px;
 }
 
 
@@ -52,6 +55,7 @@ body {
     border-style: inset;
     border-width: 10px;
     border-color: #2C3639;
+    margin-left:10px;
 }
 #boss-pedal{
    width: 400px;
