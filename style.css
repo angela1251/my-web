@@ -59,7 +59,8 @@ body {
 }
 #boss-pedal{
    width: 400px;
-
+   margin-left: 300px;
+   
 }
 #d-1-boss{
   border-style: outset;
