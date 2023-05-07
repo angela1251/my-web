@@ -62,6 +62,7 @@ body {
 
 }
 #d-1-boss{
-  border-style: outside;
+  border-style: outset;
   border-color:red;
+  width:88px;
 }
