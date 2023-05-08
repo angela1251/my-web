@@ -16,7 +16,6 @@ body {
     margin-left: 10px;
 }
 #fuzz-pedal{
-    margin-top: 90px;
     margin-bottom: 90px;
     margin-left: 330px;
     width: 189px;
@@ -24,13 +23,12 @@ body {
 }
 
 #what-is{
-    color: #2D2424;
+    text-align: left;
     width: 300px;
+    margin-left:310px;
     border-style: inset;
-    padding: 5px;
-    margin-bottom: 20px;
-    margin-left: 320px;
-
+    border-color:#2dd4dc;
+   margin-bottom:90px;
 }
 
 #delay{
