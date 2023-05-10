@@ -1,12 +1,4 @@
-h1 {
-    color: 	#360000 ;
-    text-align: center;
-    border-style:solid;
-    background-color: #267A9E;
-    border-color: red;
-    width: 570px;
-    margin: auto;
-}
+
 body {
     background-color: #F5A936;
 }
@@ -70,4 +62,17 @@ body {
   width:200px;
   margin-left: 500px;
 
+}
+
+/* Style the tab buttons */
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
 }
